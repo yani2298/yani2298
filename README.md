@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER AVEC GRADIENT -->
-<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Yanis%20Mosbah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" height="120" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=Anis%20Mosbah&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <!-- TITRE AVEC ANIMATION -->
 <h2>
