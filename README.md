@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Anis%20Mosbah&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%26%20AI%20Architect&descAlignY=58&descSize=18&descColor=a0aec0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Anis%20Mosbah&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
 <!-- TYPING SVG -->
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=8%2B+Years+crafting+production-grade+software;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Python;Building+Islamic+apps+for+millions+of+users;Turning+complex+problems+into+elegant+solutions" alt="Typing Animation" />
