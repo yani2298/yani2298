@@ -14,11 +14,11 @@
 
 <br><br>
 
-<!-- STATS EN LIGNE -->
+<!-- BADGES TECH -->
 <p>
-<img src="https://komarev.com/ghpvc/?username=yani2298&color=58a6ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/yani2298?color=58a6ff&style=for-the-badge&logo=github&label=Followers" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/yani2298?color=58a6ff&style=for-the-badge&logo=github&label=Stars" alt="Stars"/>
+<img src="https://img.shields.io/badge/Full--Stack-Developer-58a6ff?style=for-the-badge&logo=github&logoColor=white" alt="Full-Stack Developer"/>
+<img src="https://img.shields.io/badge/Open_Source-Contributor-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="Open Source"/>
+<img src="https://img.shields.io/badge/Islamic_Apps-Builder-f59e0b?style=for-the-badge&logo=github&logoColor=white" alt="Islamic Apps"/>
 </p>
 
 ---
@@ -36,12 +36,11 @@
 <h3>📊 GitHub Analytics</h3>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yani2298&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yani2298&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yani2298&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true"/>
 </p>
 
 
