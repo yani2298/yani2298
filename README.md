@@ -32,11 +32,6 @@
 
 ---
 
-<!-- TROPHIES -->
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yani2298&theme=radical&no-bg=true&no-frame=true&margin-w=15&column=7" alt="Trophies" />
-</p>
-
 <!-- STATISTIQUES GITHUB ELEGANTES -->
 <h3>📊 GitHub Analytics</h3>
 
