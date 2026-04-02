@@ -51,11 +51,12 @@
 <h3>📊 GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yani2298&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yani2298&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8"/>
 </p>
 
 <p align="center">
-<img height="175em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yani2298&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&count_private=true&langs_count=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
 </p>
 
 <!-- CONTRIBUTION GRAPH -->
