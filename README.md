@@ -51,7 +51,7 @@
 
 <!-- GRAPHIQUE DE CONTRIBUTIONS -->
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yani2298&custom_title=System%20Activity%20Pulse&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yani2298&custom_title=Contribution%20Overview&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---
@@ -71,8 +71,7 @@
 <td width="50%">
 <h4>💼 Professional Tools</h4>
 <p><code>Anis-Mosbah-Portfolio</code> - Personal Portfolio</p>
-<p><code>GoGreenPro</code> - GitHub Contribution Tools</p>
-<p><code>github-achievements</code> - Badge System</p>
+<p><code>mao-releases</code> - MAO AI App Releases</p>
 </td>
 </tr>
 </table>
