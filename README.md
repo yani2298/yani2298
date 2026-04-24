@@ -1,21 +1,24 @@
 <div align="center">
 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Anis%20Mosbah&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=18&descColor=a0aec0"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Anis%20Mosbah&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%7C%20AI%20Architect%20%7C%20Model%20Trainer&descAlignY=58&descSize=18&descColor=a0aec0"/>
 
 <!-- TYPING SVG -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=8%2B+Years+crafting+production-grade+software;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Python;Building+Islamic+apps+for+millions+of+users;Turning+complex+problems+into+elegant+solutions" alt="Typing Animation" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=15%2B+Years+crafting+production-grade+software;React+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+Rust+%E2%80%A2+Python;AI+Architect+%7C+LLM+%7C+Model+Training+%7C+AI+Chat+Apps;Building+Islamic+apps+for+millions+of+users;Turning+complex+problems+into+elegant+solutions" alt="Typing Animation" />
 
 <br>
 
 <!-- ROLE BADGES -->
+
 <p>
 <img src="https://img.shields.io/badge/%F0%9F%92%BC_Available_for-Freelance_%26_Consulting-22c55e?style=for-the-badge" alt="Available"/>
 <img src="https://img.shields.io/badge/%F0%9F%8C%8D_Location-France%2C_Paris-58a6ff?style=for-the-badge" alt="Location"/>
 <img src="https://img.shields.io/badge/%E2%9A%A1_Focus-AI_%2B_Full--Stack-f59e0b?style=for-the-badge" alt="Focus"/>
 </p>
 
----
+-----
 
 ## 🧰 Tech Arsenal
 
@@ -32,7 +35,22 @@
 <img src="https://img.shields.io/badge/Swift-Intermediate-f05138?style=flat-square&logo=swift&logoColor=white"/>
 </p>
 
----
+### 🤖 AI & Machine Learning
+
+<p align="center">
+<img src="https://img.shields.io/badge/LLM_Integration-Expert-a855f7?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Model_Training-Advanced-6366f1?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI_Chat_Apps-Expert-0ea5e9?style=flat-square&logo=chatbot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fine--Tuning-Advanced-ec4899?style=flat-square&logo=huggingface&logoColor=white"/>
+<img src="https://img.shields.io/badge/RAG_Pipelines-Advanced-f97316?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-Expert-22c55e?style=flat-square&logo=openai&logoColor=white"/>
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark&perline=8" alt="AI Stack" />
+</p>
+
+-----
 
 ## 📊 GitHub Analytics
 
@@ -44,7 +62,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=a0aec0&dates=a0aec0&stroke=1e293b&ring=58a6ff&fire=f59e0b&currStreakLabel=58a6ff" alt="Streak Stats"/>
 </p>
 
----
+-----
 
 ## 🏆 Achievements
 
@@ -52,7 +70,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yani2298&theme=radical&no-bg=true&no-frame=true&margin-w=12&column=7" alt="Trophies" />
 </p>
 
----
+-----
 
 ## 🚀 Featured Projects
 
@@ -61,6 +79,7 @@
 <td width="50%" valign="top">
 
 ### 🕌 Islamic Applications
+
 **`salat-now`** · macOS precision prayer times  
 **`MuslimHub`** · Muslim community social platform  
 **`PlayOuran`** · Modern Quran reading & audio app
@@ -68,21 +87,40 @@
 </td>
 <td width="50%" valign="top">
 
-### 💼 Engineering
-**`Anis-Mosbah-Portfolio`** · Interactive portfolio  
+### 🤖 AI Projects
+
 **`mao-releases`** · MAO AI cross-platform app  
+**`AI Chat Apps`** · Custom LLM-powered assistants  
+**`Model Training`** · Fine-tuned models for production
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Engineering
+
+**`Anis-Mosbah-Portfolio`** · Interactive portfolio  
 **`30+ private repos`** · Enterprise & client work
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Open Source
+
+**`HalalCode`** · Islamic tech for the community  
+**`Tauri / Electron Apps`** · Cross-platform desktop
 
 </td>
 </tr>
 </table>
 
----
+-----
 
 ## 📈 Career Metrics
 
 <p align="center">
-<img src="[![](https://img.shields.io/badge/Years_of_Experience-15%2B-58a6ff?style=flat-square&logo=calendar)](...)
+<img src="https://img.shields.io/badge/Years_of_Experience-15%2B-58a6ff?style=flat-square&logo=calendar"/>
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Projects_Shipped-35%2B-22c55e?style=flat-square&logo=rocket"/>
 &nbsp;&nbsp;
@@ -99,8 +137,13 @@
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CI%2FCD_Pipelines-40%2B-e11d48?style=flat-square&logo=githubactions"/>
 </p>
+<p align="center">
+<img src="https://img.shields.io/badge/AI_Models_Trained-10%2B-a855f7?style=flat-square&logo=pytorch"/>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/LLM_Apps_Shipped-8%2B-6366f1?style=flat-square&logo=openai"/>
+</p>
 
----
+-----
 
 ## 📫 Connect With Me
 
@@ -125,6 +168,5 @@
 </p>
 
 <!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
