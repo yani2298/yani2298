@@ -1,90 +1,79 @@
 -----
 
-## 🧠 SaaS & Product Engineering
+## 🧠 Advanced SaaS Engineering
 
 <p align="center">
-<img src="https://img.shields.io/badge/SaaS_Architecture-Expert-0ea5e9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microservices-Advanced-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Tenant_Systems-Advanced-a855f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Subscription_Models-Expert-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stripe_Integrations-Expert-635bff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Scalable_Backends-Expert-f59e0b?style=flat-square"/>
+<img src="https://img.shields.io/badge/SaaS_Platforms-Expert-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Tenant_Architecture-Advanced-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe_%26_Billing-Expert-635bff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Usage_Metering-Advanced-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Design-Expert-22c55e?style=flat-square"/>
 </p>
 
-- Designing **production-grade SaaS platforms** (B2C / B2B / AI-first products)  
-- Multi-tenant architecture, billing systems, usage metering  
+- Building scalable SaaS applications (AI-first, education, productivity)  
+- Subscription systems, metered billing, feature gating  
 - High-performance APIs (REST / GraphQL / streaming)  
-- Growth-ready systems (A/B testing, analytics, feature flags)
+- Product-driven engineering (analytics, A/B testing, retention)
 
 -----
 
-## 🍏 macOS Engineering (Intel + Apple Silicon)
+## 🍏 macOS Systems Expertise (Intel + Apple Silicon)
 
 <p align="center">
-<img src="https://img.shields.io/badge/macOS_Native_Apps-Expert-000000?style=flat-square&logo=apple"/>
-<img src="https://img.shields.io/badge/Swift_%2B_AppKit-Advanced-f05138?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tauri_%2F_Electron-Expert-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/M1%2FM2%2FM3_Optimization-Advanced-58a6ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Low_Level_Performance-Advanced-f97316?style=flat-square"/>
+<img src="https://img.shields.io/badge/macOS_Apps-Expert-000000?style=flat-square&logo=apple"/>
+<img src="https://img.shields.io/badge/AppKit_%2F_SwiftUI-Advanced-f05138?style=flat-square"/>
+<img src="https://img.shields.io/badge/Electron_%2F_Tauri-Expert-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/M--Series_Optimization-Advanced-58a6ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Performance_Tuning-Advanced-f97316?style=flat-square"/>
 </p>
 
-- Native + hybrid macOS apps (AppKit / SwiftUI / Electron / Tauri)  
-- Optimization for **Apple Silicon (M-series)** & legacy Intel  
-- Memory, threading & GPU-aware performance tuning  
-- Secure local AI execution (on-device inference)
+- Native & hybrid macOS apps (Electron, Tauri, Swift)  
+- Optimization for M1 / M2 / M3 + Intel architectures  
+- Memory management, threading & performance tuning  
+- Local-first apps & on-device AI execution
 
 -----
 
-## ⚙️ AI Systems Architecture
+## 🤖 AI Systems (Production-Grade)
 
-- End-to-end **LLM pipelines (RAG + agents + memory systems)**  
-- Multi-model orchestration (OpenAI-compatible / local models / APIs)  
-- Token optimization, latency reduction & cost control  
-- Real-time AI streaming UX (chat, voice, vision)  
-- Custom embeddings + vector databases (semantic search)
+- LLM integration (multi-provider, OpenAI-compatible APIs)  
+- RAG pipelines (vector search, embeddings, retrieval systems)  
+- Real-time AI apps (chat, voice, vision)  
+- Token cost optimization & latency reduction  
+- Fine-tuned models for specific use cases
+
+-----
+
+## ⚙️ Infrastructure & Scaling
+
+- Dockerized environments & Kubernetes orchestration  
+- Redis caching, queues & background workers  
+- Edge + serverless deployments  
+- Horizontal scaling & high availability systems  
 
 -----
 
 ## 🔐 Security & Reliability
 
 <p align="center">
-<img src="https://img.shields.io/badge/Auth_(OAuth%2C_JWT)-Expert-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Encryption-Advanced-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Auth_Systems-Expert-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Security-Advanced-0ea5e9?style=flat-square"/>
 <img src="https://img.shields.io/badge/Rate_Limiting-Advanced-f59e0b?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zero_Downtime_Deploys-Expert-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Monitoring-Advanced-a855f7?style=flat-square"/>
 </p>
 
-- Secure auth flows (OAuth2, JWT, session systems)  
-- API protection (rate limiting, abuse prevention)  
-- Production monitoring (logs, metrics, alerts)  
-- High availability systems (failover, autoscaling)
-
------
-
-## 🚀 Performance & Scaling
-
-- Sub-100ms API response targets  
-- Edge deployment strategies (CDN + serverless)  
-- Database optimization (indexing, caching, query tuning)  
-- Redis-based caching & queue systems  
-- Horizontal scaling (Docker / Kubernetes)
+- Secure authentication (JWT, OAuth, session systems)  
+- API protection & abuse prevention  
+- Logging, monitoring & alerting systems  
+- Reliable deployments with minimal downtime  
 
 -----
 
 ## 🧪 Engineering Standards
 
-- Clean Architecture / Domain-Driven Design  
-- Test-driven workflows (unit, integration, e2e)  
-- CI/CD pipelines (GitHub Actions, automated deploys)  
-- Code quality (linting, static analysis, type safety)
-
------
-
-## 💡 Current Focus
-
-- AI-first SaaS products (education, productivity, niche tools)  
-- Advanced macOS apps with embedded AI  
-- Building scalable AI ecosystems (apps + APIs + models)  
-- Developer tools & automation systems
+- Clean Architecture & scalable codebases  
+- CI/CD pipelines (automated testing & deploy)  
+- Type-safe systems (TypeScript-first approach)  
+- Maintainable & production-ready code practices  
 
 -----
