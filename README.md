@@ -82,7 +82,7 @@
 ## 📈 Career Metrics
 
 <p align="center">
-<img src="https://img.shields.io/badge/Years_of_Experience-8%2B-58a6ff?style=flat-square&logo=calendar"/>
+<img src="[![](https://img.shields.io/badge/Years_of_Experience-15%2B-58a6ff?style=flat-square&logo=calendar)](...)
 &nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Projects_Shipped-35%2B-22c55e?style=flat-square&logo=rocket"/>
 &nbsp;&nbsp;
