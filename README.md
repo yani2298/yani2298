@@ -1,73 +1,3 @@
------
-
-## 🧠 System Architecture & SaaS Engineering
-
-<p align="center">
-<img src="https://img.shields.io/badge/System_Design-Expert-0ea5e9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Microservices-Advanced-6366f1?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multi--Tenant_SaaS-Advanced-a855f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Stripe_Billing-Expert-635bff?style=flat-square"/>
-<img src="https://img.shields.io/badge/API_Performance-Expert-22c55e?style=flat-square"/>
-</p>
-
-- Architecting scalable SaaS platforms (B2B / B2C / AI-first)  
-- Multi-tenant systems, subscription logic, usage-based billing  
-- High-performance APIs (REST, GraphQL, real-time streaming)  
-- Event-driven architecture (queues, workers, async pipelines)
-
------
-
-## 🍏 macOS Deep Expertise (Intel + Apple Silicon)
-
-<p align="center">
-<img src="https://img.shields.io/badge/macOS_Engineering-Expert-000000?style=flat-square&logo=apple"/>
-<img src="https://img.shields.io/badge/AppKit_%2F_SwiftUI-Advanced-f05138?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electron_%2F_Tauri-Expert-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/M1%2FM2%2FM3_Optimization-Advanced-58a6ff?style=flat-square"/>
-<img src="https://img.shields.io/badge/Low_Level_Performance-Advanced-f97316?style=flat-square"/>
-</p>
-
-- Building high-performance macOS apps (native & hybrid)  
-- Optimization for Apple Silicon (M-series) & Intel CPUs  
-- Memory management, concurrency & system-level tuning  
-- Secure local-first apps & on-device AI execution
-
------
-
-## 🤖 AI Infrastructure (Production)
-
-- LLM orchestration (multi-model, OpenAI-compatible APIs)  
-- RAG systems (embeddings, vector DB, semantic retrieval)  
-- Real-time AI apps (chat, voice, vision streaming)  
-- Cost optimization (token usage, caching, batching)  
-- Fine-tuned models for production use cases  
-
------
-
-## ⚙️ Infrastructure & Scaling
-
-- Docker, Kubernetes & distributed systems  
-- Redis (caching, queues, pub/sub)  
-- Serverless + edge deployments  
-- Horizontal scaling & high-availability architectures  
-
------
-
-## 🔐 Security, Reliability & Performance
-
-<p align="center">
-<img src="https://img.shields.io/badge/Auth_(JWT%2C_OAuth)-Expert-22c55e?style=flat-square"/>
-<img src="https://img.shields.io/badge/API_Security-Advanced-0ea5e9?style=flat-square"/>
-<img src="https://img.shields.io/badge/Monitoring_%26_Observability-Advanced-a855f7?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zero_Downtime_Deploys-Expert-f59e0b?style=flat-square"/>
-</p>
-
-- Secure authentication & authorization systems  
-- Rate limiting, abuse prevention & API hardening  
-- Logging, monitoring, alerting (production-ready)  
-- Performance tuning (low latency, high throughput)  
-
------
 
 <!-- HEADER -->
 
@@ -254,3 +184,74 @@
 <!-- FOOTER -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
+-----
+
+## 🧠 System Architecture & SaaS Engineering
+
+<p align="center">
+<img src="https://img.shields.io/badge/System_Design-Expert-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Microservices-Advanced-6366f1?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multi--Tenant_SaaS-Advanced-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Stripe_Billing-Expert-635bff?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Performance-Expert-22c55e?style=flat-square"/>
+</p>
+
+- Architecting scalable SaaS platforms (B2B / B2C / AI-first)  
+- Multi-tenant systems, subscription logic, usage-based billing  
+- High-performance APIs (REST, GraphQL, real-time streaming)  
+- Event-driven architecture (queues, workers, async pipelines)
+
+-----
+
+## 🍏 macOS Deep Expertise (Intel + Apple Silicon)
+
+<p align="center">
+<img src="https://img.shields.io/badge/macOS_Engineering-Expert-000000?style=flat-square&logo=apple"/>
+<img src="https://img.shields.io/badge/AppKit_%2F_SwiftUI-Advanced-f05138?style=flat-square"/>
+<img src="https://img.shields.io/badge/Electron_%2F_Tauri-Expert-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/M1%2FM2%2FM3_Optimization-Advanced-58a6ff?style=flat-square"/>
+<img src="https://img.shields.io/badge/Low_Level_Performance-Advanced-f97316?style=flat-square"/>
+</p>
+
+- Building high-performance macOS apps (native & hybrid)  
+- Optimization for Apple Silicon (M-series) & Intel CPUs  
+- Memory management, concurrency & system-level tuning  
+- Secure local-first apps & on-device AI execution
+
+-----
+
+## 🤖 AI Infrastructure (Production)
+
+- LLM orchestration (multi-model, OpenAI-compatible APIs)  
+- RAG systems (embeddings, vector DB, semantic retrieval)  
+- Real-time AI apps (chat, voice, vision streaming)  
+- Cost optimization (token usage, caching, batching)  
+- Fine-tuned models for production use cases  
+
+-----
+
+## ⚙️ Infrastructure & Scaling
+
+- Docker, Kubernetes & distributed systems  
+- Redis (caching, queues, pub/sub)  
+- Serverless + edge deployments  
+- Horizontal scaling & high-availability architectures  
+
+-----
+
+## 🔐 Security, Reliability & Performance
+
+<p align="center">
+<img src="https://img.shields.io/badge/Auth_(JWT%2C_OAuth)-Expert-22c55e?style=flat-square"/>
+<img src="https://img.shields.io/badge/API_Security-Advanced-0ea5e9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Monitoring_%26_Observability-Advanced-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/Zero_Downtime_Deploys-Expert-f59e0b?style=flat-square"/>
+</p>
+
+- Secure authentication & authorization systems  
+- Rate limiting, abuse prevention & API hardening  
+- Logging, monitoring, alerting (production-ready)  
+- Performance tuning (low latency, high throughput)  
+
+-----
+
