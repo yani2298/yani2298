@@ -115,9 +115,7 @@ Software Engineer passionate about crafting **high-performance client software, 
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=yani2298&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&custom_title=Anis%20Mosbah%27s%20Activity&hide=stars,prs,issues,contribs" alt="GitHub Overview" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yani2298&theme=github_dark&hide_border=true&background=0d1117&sideNums=58a6ff&sideLabels=a0aec0&dates=a0aec0&stroke=1e293b&ring=58a6ff&fire=f59e0b&currStreakLabel=58a6ff" alt="Streak Stats"/>
